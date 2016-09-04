@@ -1,0 +1,1 @@
+This is a e-commerce web application where the users can view and buy products. Recommend product feature is also added. Only authenticated users can buy products. Only admin can add and modify products.

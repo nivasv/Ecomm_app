@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang='en'>
+<head>
+<meta charset ="UTF-8">
+<title> My app </title>
+</head>
+<body>
+<h1> Register User </h1>
+<form action="/addProducts" method="post">
+productId:<input type="text" name="productId">
+name:<input type="text" name="name">
+productDescription:<input type="text" name="productDescription">
+group:<input type="text" name="group">
+
+
+<input type="submit" name="Submit">
+</form>
+
+</body>
+<html>
